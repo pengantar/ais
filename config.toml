@@ -1,4 +1,4 @@
-baseurl = "https://belajarperhotelan.eu.org/"
+baseurl = "https://pengantar.github/ais/"
 title = "belajar perhotelan"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
