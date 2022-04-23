@@ -1,4 +1,4 @@
-baseurl = "https://pengantar.github.io/pengantar.github.io"
+baseurl = "https://pengantar.github.io/"
 title = "belajar perhotelan"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
